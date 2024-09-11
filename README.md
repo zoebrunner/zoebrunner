@@ -19,7 +19,7 @@ I'm actively seeking opportunities in language technology, with a particular int
 - Collaborative projects in language tech; I'm keen to apply my academic knowledge to *your* project!
 
 ## 📫 Let's Connect!
-- LinkedIn: linkedin.com/in/zoebrunner/
+- LinkedIn: [linkedin.com/in/zoebrunner/](https://www.linkedin.com/in/zoebrunner/)
 - Email: z.brunner@icloud.com
 
 <!---
