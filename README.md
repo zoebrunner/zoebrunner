@@ -9,10 +9,10 @@ I'm a recent graduate with an MSc in Speech & Language Processing from the Unive
 
 ## 🔍 Current Focus
 I'm actively seeking opportunities in language technology, with a particular interest in:
+- Machine Learning and Artificial Intelligence for language applications
 - Automatic Speech Recognition (ASR)
 - Speech Synthesis (TTS)
 - Natural Language Processing (NLP)
-- Machine Learning for language applications
 
 ## 💼 Looking For
 - Full-time positions in Speech Technology or NLP
