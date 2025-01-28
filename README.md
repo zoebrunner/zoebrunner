@@ -20,7 +20,6 @@ I'm actively seeking opportunities in language technology, with a particular int
 
 ## 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/zoebrunner/](https://www.linkedin.com/in/zoebrunner/)
-- Email: z.brunner@icloud.com
 
 <!---
 zoebrunner/zoebrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
