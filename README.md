@@ -4,8 +4,8 @@
 I'm a recent graduate with an MSc in Speech & Language Processing from the University of Edinburgh, passionate about the intersection of language and technology. With a strong foundation in both speech and text processing, I'm excited to explore and contribute to the full spectrum of language technology applications, with a particular interest in algorithmic bias. 
 
 ## 🎓 Education
-- MSc Speech & Language Processing, University of Edinburgh
-- MA (Hons) Linguistics & Philosophy, University of Edinburgh
+- MSc Speech & Language Processing, University of Edinburgh (Distinction)
+- MA (Hons) Linguistics & Philosophy, University of Edinburgh (First Class)
 
 ## 🔍 Current Focus
 I'm actively seeking opportunities in language technology, with a particular interest in:
