@@ -1,22 +1,13 @@
 # Hello, I'm Zoë Brunner 👋
 
 ## About Me
-I'm a recent graduate with an MSc in Speech & Language Processing from the University of Edinburgh, passionate about the intersection of language and technology. With a strong foundation in both speech and text processing, I'm excited to explore and contribute to the full spectrum of language technology applications, with a particular interest in algorithmic bias. 
+I'm a Machine Learning Engineer, currently working on news analytics at JPMorgan Chase.
+
+I love working with big data--*insert Marie Kondo "I love mess" GIF here*--particularly of the text and speech kind!
 
 ## 🎓 Education
 - MSc Speech & Language Processing, University of Edinburgh (Distinction)
 - MA (Hons) Linguistics & Philosophy, University of Edinburgh (First Class)
-
-## 🔍 Current Focus
-I'm actively seeking opportunities in language technology, with a particular interest in:
-- Machine Learning and Artificial Intelligence for language applications
-- Automatic Speech Recognition (ASR)
-- Speech Synthesis (TTS)
-- Natural Language Processing (NLP)
-
-## 💼 Looking For
-- Full-time positions in Speech Technology or NLP
-- Collaborative projects in language tech; if you're working on speech or language processing challenges, I'd love to contribute!
 
 ## 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/zoebrunner/](https://www.linkedin.com/in/zoebrunner/)
